@@ -1,0 +1,35 @@
+part 1. starting with math
+math has four domains (arithmetic, algebra, geometry, data analysis)
+each domain has relevant subject areas (28 total)
+if I tackle one subject area a day this would take 28 days to review
+given I only have a limited time after work I can review for about 30-90 minutes
+assuming I may take a day off on weekdays and weekends I have five days a week
+now this is about 5-6 weeks of effort (only for math)
+there are days I may make up ground a bit, but assuming upper bound of 5-6 weeks
+given start date 2020-06-10 this gives me a rough end date of 2020-07-22
+---
+part 2. continuing with vocabulary
+math will be main focus at first, but then will make time for vocabulary
+possibly may do some vocabulary in parallel with math, but it should not conflict with math review
+there are 700+ gre vocabulary words that are "repeat offenders" to focus on
+I can roughly learn about 5-7 words in 30 minute intervals (about five minutes per word)
+assuming two 30 minute intervals a day I can learn up to 10-14 words a day
+applying the same assumption as earlier, I have five days a week
+due to time constraints it may not be possible to study this way (2020-09-01 hard cut-off)
+starting *right now* I have twelve weeks to study vocabulary (not factoring math)
+this is not feasible and vocabulary is not my priority at the moment
+however, I can compromise a bit and review vocabulary lightly during math study phase
+light vocabulary study means roughly six words on average per study day (30 minute sessions) for the first 5-6 weeks
+heavy vocabulary study means roughly 12 words on average per study day (2x30 minutes sessions) for the latter 6 weeks
+rough calculations this gets me to 540 words
+this is 3/4 the 700+ "repeat" offenders list, however, this may be sufficient
+already a decent amount of the words I should know or have some familiarity
+---
+summary
+based on the above mentioned observations and calculations, I have 12 weeks
+I should be ready to take the gre roughly by saturday 2020-08-29
+this plan considers few rest/break days, but other setbacks may/will occur
+setbacks are fine and I should be able to press forward or re-evaluate the timeline/effort if absolutely needed to be more realistic and achievable
+although not stated explicitly, this plan allows for taking the exam twice
+once after the heavy math + light vocabulary initial 5-6 weeks (2020-07-18 or 2020-07-24)
+second time after full vocabulary dedicated 6 weeks (2020-08-28)
