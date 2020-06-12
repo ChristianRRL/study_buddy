@@ -1,0 +1,12 @@
+school,program,deadline
+ut austin,master of science in data science,2020-09-15
+uc berkeley,masters of information and data science (mids),2020-09-09
+georgia tech,master of science in analytics (multiple tracks offered),2021-10-01
+carnegie mellon,master of science in it business intelligence and data analytics (bida),2020-11-01
+john hopkins,master of science in data science,n/a
+university of denver,master of science in data science,n/a
+urbana-champaign,master of computer science in data science,2020-10-15
+illinois institute of technology,master of data science,2020-10-01
+
+
+summary: for spring 2021 deadlines start around september
