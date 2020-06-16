@@ -48,4 +48,16 @@ for example, I may be able to review "math vocabulary" in my current plan, but a
 I need to be able to strike a balance between math concepts review and practice problems
 at the same time I need to make sure that I can initiate/terminate my review/practice sessions within a reasonable 15-30 minutes (45min max)
 this will take some time, but by outlining this plan a bit more I will be able to tackle math easier (much like I am tackling vocabulary currently)
+---
+backlog 2 - vocabulary study mini program feature
+at the moment vocabulary studying is pretty easy but time consuming
+my current approach takes up a lot of time simply to manually pull the words, type them down, and find them again to pull their definitions
+I should be able to make a small program that is able to take some input
+e.g. how many words do you want to review this session;
+e.g. optional whitelist specific first letter for words;
+e.g. maybe also offer the option to show quick stats on the full list of words (rank words by first letter usage; rank by parts of speech such as adjectives, verbs, nouns, etc.)
+---
+vocabulary notes 1
+at the current rate of 7 words a day I will not be able to reach 700+ words by the GRE dateIn order to maximize my time and effort I need to increase the daily words by a fewI believe 9 is a fair number (1/3rd the alphabet)… actually even this is a bit under the amount I needhowever, my word count could go up slightly by adding extra words if there are easy ones in a given dayand additionally, I'm assuming (reasonably) that I'm only handling new words 5 days a weekI don't want to assume I'll be studying religiously 7 days a week, but there are some days (weekends) where I may be able to tackle an extra set of 9 words, further accelerating my goalthe only way I get close to my goal is to *effectively* study 11-12 words a day 6 days a weekIdea 2.0, code a flashcard system on a given weekendthis may take some time, but it would significantly reduce the barrier to entry for this kind of study/review and make it more feasible to tackle 6 words in 2-3 intervals a dayin other words, a way to easily study 12-18 words a day (and still maintain the 5 day study schedule instead of a full 6-7 day schedule)This may be the #1 approach, this way I would be able to on average (ideally) attack 15 words a day
+
 
